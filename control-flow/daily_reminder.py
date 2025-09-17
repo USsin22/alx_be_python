@@ -21,4 +21,4 @@ else:
         message += "."
 
 
-print("\nReminder:", message)
+print(f"Reminder: {message}")
